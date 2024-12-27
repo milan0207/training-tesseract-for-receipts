@@ -1,0 +1,408 @@
+Loaded file data/eng/augSubtle.lstm, unpacking...
+Warning: LSTMTrainer deserialized an LSTMRecognizer!
+Code range changed from 111 to 117!
+Num (Extended) outputs,weights in Series:
+  1,36,0,1:1, 0
+Num (Extended) outputs,weights in Series:
+  C3,3:9, 0
+  Ft16:16, 160
+Total weights = 160
+  [C3,3Ft16]:16, 160
+  Mp3,3:16, 0
+  TxyLfys64:64, 20736
+  Lfx96:96, 61824
+  RxLrx96:96, 74112
+  Lfx512:512, 1247232
+  Fc117:117, 60021
+Total weights = 1464085
+Previous null char=110 mapped to 116
+Continuing from data/eng/augSubtle.lstm
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5345.lstmf
+2 Percent improvement time=85, best error was 100 @ 0
+At iteration 85/100/100, mean rms=1.247%, delta=3.019%, BCER train=10.055%, BWER train=22.324%, skip ratio=0.000%, New best BCER = 10.055 wrote best model:data/augSubtle/checkpoints/augSubtle_10.055_85_100.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1526.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_9348.lstmf
+2 Percent improvement time=166, best error was 100 @ 0
+At iteration 166/200/200, mean rms=1.124%, delta=2.464%, BCER train=9.939%, BWER train=22.680%, skip ratio=0.000%, New best BCER = 9.939 Transitioned to stage 1 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3327.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_9593.lstmf
+2 Percent improvement time=254, best error was 100 @ 0
+At iteration 254/300/300, mean rms=1.035%, delta=2.027%, BCER train=9.037%, BWER train=21.407%, skip ratio=0.000%, New best BCER = 9.037 wrote best model:data/augSubtle/checkpoints/augSubtle_9.037_254_300.checkpoint wrote checkpoint.
+2 Percent improvement time=162, best error was 9.939 @ 166
+At iteration 328/400/400, mean rms=0.953%, delta=1.753%, BCER train=7.864%, BWER train=18.690%, skip ratio=0.000%, New best BCER = 7.864 wrote best model:data/augSubtle/checkpoints/augSubtle_7.864_328_400.checkpoint wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_9437.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16403.lstmf
+2 Percent improvement time=226, best error was 9.939 @ 166
+At iteration 392/500/500, mean rms=0.890%, delta=1.548%, BCER train=7.258%, BWER train=17.117%, skip ratio=0.000%, New best BCER = 7.258 wrote best model:data/augSubtle/checkpoints/augSubtle_7.258_392_500.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_78.lstmf
+2 Percent improvement time=194, best error was 9.037 @ 254
+At iteration 448/600/600, mean rms=0.819%, delta=1.359%, BCER train=6.484%, BWER train=15.381%, skip ratio=0.000%, New best BCER = 6.484 wrote best model:data/augSubtle/checkpoints/augSubtle_6.484_448_600.checkpoint wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_11052.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_10919.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3122.lstmf
+2 Percent improvement time=243, best error was 9.037 @ 254
+At iteration 497/700/700, mean rms=0.759%, delta=1.222%, BCER train=5.888%, BWER train=14.110%, skip ratio=0.000%, New best BCER = 5.888 wrote best model:data/augSubtle/checkpoints/augSubtle_5.888_497_700.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5778.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_17663.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6770.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13286.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13641.lstmf
+2 Percent improvement time=215, best error was 7.864 @ 328
+At iteration 543/800/800, mean rms=0.708%, delta=1.103%, BCER train=5.329%, BWER train=12.872%, skip ratio=0.000%, New best BCER = 5.329 wrote best model:data/augSubtle/checkpoints/augSubtle_5.329_543_800.checkpoint wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_11127.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_568.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_2233.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_11740.lstmf
+2 Percent improvement time=189, best error was 7.258 @ 392
+At iteration 581/900/900, mean rms=0.669%, delta=1.016%, BCER train=4.964%, BWER train=12.088%, skip ratio=0.000%, New best BCER = 4.964 wrote best model:data/augSubtle/checkpoints/augSubtle_4.964_581_900.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_13026.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_16098.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_123.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1840.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_10193.lstmf
+2 Percent improvement time=211, best error was 7.258 @ 392
+At iteration 603/1000/1000, mean rms=0.628%, delta=0.927%, BCER train=4.589%, BWER train=11.251%, skip ratio=0.000%, New best BCER = 4.589 wrote best model:data/augSubtle/checkpoints/augSubtle_4.589_603_1000.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5907.lstmf
+2 Percent improvement time=146, best error was 5.888 @ 497
+At iteration 643/1100/1100, mean rms=0.541%, delta=0.704%, BCER train=3.842%, BWER train=9.567%, skip ratio=0.000%, New best BCER = 3.842 wrote best model:data/augSubtle/checkpoints/augSubtle_3.842_643_1100.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14339.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_10713.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_2737.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5482.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14675.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4543.lstmf
+2 Percent improvement time=115, best error was 5.329 @ 543
+At iteration 658/1200/1200, mean rms=0.467%, delta=0.584%, BCER train=3.000%, BWER train=7.504%, skip ratio=0.000%, New best BCER = 3.000 wrote best model:data/augSubtle/checkpoints/augSubtle_3.000_658_1200.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5354.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_15775.lstmf
+2 Percent improvement time=77, best error was 4.589 @ 603
+At iteration 680/1300/1300, mean rms=0.402%, delta=0.480%, BCER train=2.312%, BWER train=5.734%, skip ratio=0.000%, New best BCER = 2.312 wrote best model:data/augSubtle/checkpoints/augSubtle_2.312_680_1300.checkpoint wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_15909.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4641.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3908.lstmf
+2 Percent improvement time=100, best error was 4.589 @ 603
+At iteration 703/1400/1400, mean rms=0.355%, delta=0.400%, BCER train=1.927%, BWER train=4.842%, skip ratio=0.000%, New best BCER = 1.927 wrote best model:data/augSubtle/checkpoints/augSubtle_1.927_703_1400.checkpoint wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13290.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_9862.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7676.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4362.lstmf
+2 Percent improvement time=77, best error was 3.842 @ 643
+At iteration 720/1500/1500, mean rms=0.311%, delta=0.337%, BCER train=1.469%, BWER train=3.819%, skip ratio=0.000%, New best BCER = 1.469 wrote best model:data/augSubtle/checkpoints/augSubtle_1.469_720_1500.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4026.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5339.lstmf
+2 Percent improvement time=92, best error was 3.842 @ 643
+At iteration 735/1600/1600, mean rms=0.290%, delta=0.336%, BCER train=1.348%, BWER train=3.403%, skip ratio=0.000%, New best BCER = 1.348 wrote best model:data/augSubtle/checkpoints/augSubtle_1.348_735_1600.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6993.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12237.lstmf
+2 Percent improvement time=105, best error was 3.842 @ 643
+At iteration 748/1700/1700, mean rms=0.268%, delta=0.303%, BCER train=1.144%, BWER train=2.821%, skip ratio=0.000%, New best BCER = 1.144 wrote best model:data/augSubtle/checkpoints/augSubtle_1.144_748_1700.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5429.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14429.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_874.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_9451.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3276.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14237.lstmf
+2 Percent improvement time=121, best error was 3.842 @ 643
+At iteration 764/1800/1800, mean rms=0.252%, delta=0.284%, BCER train=1.049%, BWER train=2.518%, skip ratio=0.000%, New best BCER = 1.049 wrote best model:data/augSubtle/checkpoints/augSubtle_1.049_764_1800.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_17084.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_11779.lstmf
+2 Percent improvement time=114, best error was 3 @ 658
+At iteration 772/1900/1900, mean rms=0.231%, delta=0.256%, BCER train=0.859%, BWER train=1.974%, skip ratio=0.000%, New best BCER = 0.859 wrote best model:data/augSubtle/checkpoints/augSubtle_0.859_772_1900.checkpoint wrote checkpoint.
+2 Percent improvement time=124, best error was 3 @ 658
+At iteration 782/2000/2000, mean rms=0.222%, delta=0.248%, BCER train=0.765%, BWER train=1.667%, skip ratio=0.000%, New best BCER = 0.765 wrote best model:data/augSubtle/checkpoints/augSubtle_0.765_782_2000.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1681.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5283.lstmf
+2 Percent improvement time=131, best error was 3 @ 658
+At iteration 789/2100/2100, mean rms=0.199%, delta=0.191%, BCER train=0.575%, BWER train=1.258%, skip ratio=0.000%, New best BCER = 0.575 wrote best model:data/augSubtle/checkpoints/augSubtle_0.575_789_2100.checkpoint wrote checkpoint.
+2 Percent improvement time=147, best error was 3 @ 658
+At iteration 805/2200/2200, mean rms=0.195%, delta=0.139%, BCER train=0.521%, BWER train=1.211%, skip ratio=0.000%, New best BCER = 0.521 wrote best model:data/augSubtle/checkpoints/augSubtle_0.521_805_2200.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_10179.lstmf
+2 Percent improvement time=161, best error was 3 @ 658
+At iteration 819/2300/2300, mean rms=0.191%, delta=0.135%, BCER train=0.513%, BWER train=1.167%, skip ratio=0.000%, New best BCER = 0.513 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_9574.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_17574.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1809.lstmf
+2 Percent improvement time=171, best error was 3 @ 658
+At iteration 829/2400/2400, mean rms=0.181%, delta=0.127%, BCER train=0.488%, BWER train=1.071%, skip ratio=0.000%, New best BCER = 0.488 wrote best model:data/augSubtle/checkpoints/augSubtle_0.488_829_2400.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8663.lstmf
+2 Percent improvement time=177, best error was 3 @ 658
+At iteration 835/2500/2500, mean rms=0.173%, delta=0.121%, BCER train=0.482%, BWER train=1.087%, skip ratio=0.000%, New best BCER = 0.482 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12554.lstmf
+2 Percent improvement time=181, best error was 3 @ 658
+At iteration 839/2600/2600, mean rms=0.158%, delta=0.082%, BCER train=0.349%, BWER train=0.855%, skip ratio=0.000%, New best BCER = 0.349 wrote best model:data/augSubtle/checkpoints/augSubtle_0.349_839_2600.checkpoint wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12622.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1323.lstmf
+2 Percent improvement time=189, best error was 3 @ 658
+At iteration 847/2700/2700, mean rms=0.152%, delta=0.081%, BCER train=0.339%, BWER train=0.830%, skip ratio=0.000%, New best BCER = 0.339 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_571.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7640.lstmf
+2 Percent improvement time=199, best error was 3 @ 658
+At iteration 857/2800/2800, mean rms=0.147%, delta=0.078%, BCER train=0.315%, BWER train=0.782%, skip ratio=0.000%, New best BCER = 0.315 wrote best model:data/augSubtle/checkpoints/augSubtle_0.315_857_2800.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12943.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3842.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12143.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_9123.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_995.lstmf
+At iteration 868/2900/2900, mean rms=0.147%, delta=0.084%, BCER train=0.334%, BWER train=0.917%, skip ratio=0.000%, New worst BCER = 0.334 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5742.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_17214.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_309.lstmf
+At iteration 881/3000/3000, mean rms=0.145%, delta=0.085%, BCER train=0.334%, BWER train=0.921%, skip ratio=0.000%, New worst BCER = 0.334 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12656.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_210.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_15979.lstmf
+2 Percent improvement time=209, best error was 2.312 @ 680
+At iteration 889/3100/3100, mean rms=0.142%, delta=0.069%, BCER train=0.285%, BWER train=0.827%, skip ratio=0.000%, New best BCER = 0.285 wrote best model:data/augSubtle/checkpoints/augSubtle_0.285_889_3100.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_17319.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_197.lstmf
+2 Percent improvement time=212, best error was 2.312 @ 680
+At iteration 892/3200/3200, mean rms=0.131%, delta=0.052%, BCER train=0.207%, BWER train=0.649%, skip ratio=0.000%, New best BCER = 0.207 wrote best model:data/augSubtle/checkpoints/augSubtle_0.207_892_3200.checkpoint wrote checkpoint.
+2 Percent improvement time=218, best error was 2.312 @ 680
+At iteration 898/3300/3300, mean rms=0.125%, delta=0.049%, BCER train=0.193%, BWER train=0.610%, skip ratio=0.000%, New best BCER = 0.193 wrote best model:data/augSubtle/checkpoints/augSubtle_0.193_898_3300.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3496.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3464.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12460.lstmf
+At iteration 908/3400/3400, mean rms=0.126%, delta=0.059%, BCER train=0.212%, BWER train=0.688%, skip ratio=0.000%, New worst BCER = 0.212 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12122.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_10804.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13889.lstmf
+At iteration 918/3500/3500, mean rms=0.127%, delta=0.067%, BCER train=0.253%, BWER train=0.722%, skip ratio=0.000%, New worst BCER = 0.253 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_9463.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5675.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8199.lstmf
+At iteration 931/3600/3600, mean rms=0.144%, delta=0.147%, BCER train=0.529%, BWER train=1.044%, skip ratio=0.000%, New worst BCER = 0.529 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1529.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5194.lstmf
+At iteration 933/3700/3700, mean rms=0.143%, delta=0.160%, BCER train=0.560%, BWER train=1.119%, skip ratio=0.000%, New worst BCER = 0.560 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7511.lstmf
+At iteration 941/3800/3800, mean rms=0.142%, delta=0.158%, BCER train=0.557%, BWER train=1.089%, skip ratio=0.000%, New worst BCER = 0.557 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4286.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_13547.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_9197.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1487.lstmf
+At iteration 949/3900/3900, mean rms=0.139%, delta=0.156%, BCER train=0.548%, BWER train=0.980%, skip ratio=0.000%, New worst BCER = 0.548 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_9795.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5647.lstmf
+At iteration 955/4000/4000, mean rms=0.137%, delta=0.155%, BCER train=0.535%, BWER train=0.950%, skip ratio=0.000%, New worst BCER = 0.535 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4922.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_17151.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_9118.lstmf
+At iteration 960/4100/4100, mean rms=0.134%, delta=0.152%, BCER train=0.524%, BWER train=0.927%, skip ratio=0.000%, New worst BCER = 0.524 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7879.lstmf
+At iteration 972/4200/4200, mean rms=0.139%, delta=0.161%, BCER train=0.552%, BWER train=1.007%, skip ratio=0.000%, New worst BCER = 0.552 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5063.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_13543.lstmf
+At iteration 981/4300/4300, mean rms=0.142%, delta=0.166%, BCER train=0.568%, BWER train=1.072%, skip ratio=0.000%, New worst BCER = 0.568 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12486.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14512.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8914.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3943.lstmf
+At iteration 987/4400/4400, mean rms=0.138%, delta=0.155%, BCER train=0.538%, BWER train=0.961%, skip ratio=0.000%, New worst BCER = 0.538 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3609.lstmf
+At iteration 993/4500/4500, mean rms=0.137%, delta=0.148%, BCER train=0.507%, BWER train=0.964%, skip ratio=0.000%, New worst BCER = 0.507 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_15350.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_860.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_13289.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8184.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14378.lstmf
+At iteration 1001/4600/4600, mean rms=0.121%, delta=0.070%, BCER train=0.234%, BWER train=0.647%, skip ratio=0.000%, New worst BCER = 0.234 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6775.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3654.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1016.lstmf
+At iteration 1005/4700/4700, mean rms=0.120%, delta=0.060%, BCER train=0.216%, BWER train=0.589%, skip ratio=0.000%, New worst BCER = 0.216 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_2779.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1969.lstmf
+At iteration 1013/4800/4800, mean rms=0.124%, delta=0.088%, BCER train=0.311%, BWER train=0.688%, skip ratio=0.000%, New worst BCER = 0.311 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7389.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3460.lstmf
+At iteration 1019/4900/4900, mean rms=0.125%, delta=0.093%, BCER train=0.314%, BWER train=0.687%, skip ratio=0.000%, New worst BCER = 0.314 wrote checkpoint.
+At iteration 1022/5000/5000, mean rms=0.122%, delta=0.089%, BCER train=0.305%, BWER train=0.660%, skip ratio=0.000%, New worst BCER = 0.305 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13529.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6390.lstmf
+At iteration 1030/5100/5100, mean rms=0.124%, delta=0.095%, BCER train=0.319%, BWER train=0.687%, skip ratio=0.000%, New worst BCER = 0.319 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6195.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8622.lstmf
+At iteration 1037/5200/5200, mean rms=0.120%, delta=0.086%, BCER train=0.296%, BWER train=0.630%, skip ratio=0.000%, New worst BCER = 0.296 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14742.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_15313.lstmf
+At iteration 1044/5300/5300, mean rms=0.122%, delta=0.106%, BCER train=0.380%, BWER train=0.673%, skip ratio=0.000%, New worst BCER = 0.380 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14286.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5333.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7218.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_11201.lstmf
+At iteration 1049/5400/5400, mean rms=0.121%, delta=0.105%, BCER train=0.372%, BWER train=0.658%, skip ratio=0.000%, New worst BCER = 0.372 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_17.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6313.lstmf
+At iteration 1051/5500/5500, mean rms=0.117%, delta=0.101%, BCER train=0.346%, BWER train=0.550%, skip ratio=0.000%, New worst BCER = 0.346 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14501.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5446.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6245.lstmf
+At iteration 1054/5600/5600, mean rms=0.115%, delta=0.099%, BCER train=0.343%, BWER train=0.539%, skip ratio=0.000%, New worst BCER = 0.343 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7056.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_17914.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16456.lstmf
+At iteration 1059/5700/5700, mean rms=0.114%, delta=0.094%, BCER train=0.322%, BWER train=0.510%, skip ratio=0.000%, New worst BCER = 0.322 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16139.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5316.lstmf
+At iteration 1063/5800/5800, mean rms=0.107%, delta=0.067%, BCER train=0.223%, BWER train=0.409%, skip ratio=0.000%, New worst BCER = 0.223 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8151.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5177.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_16556.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13334.lstmf
+At iteration 1068/5900/5900, mean rms=0.102%, delta=0.057%, BCER train=0.205%, BWER train=0.368%, skip ratio=0.000%, New worst BCER = 0.205 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_13873.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12586.lstmf
+At iteration 1071/6000/6000, mean rms=0.103%, delta=0.059%, BCER train=0.210%, BWER train=0.379%, skip ratio=0.000%, New worst BCER = 0.210 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14928.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12908.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_16218.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1391.lstmf
+At iteration 1076/6100/6100, mean rms=0.103%, delta=0.064%, BCER train=0.230%, BWER train=0.428%, skip ratio=0.000%, New worst BCER = 0.230 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6591.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16102.lstmf
+At iteration 1079/6200/6200, mean rms=0.107%, delta=0.097%, BCER train=0.379%, BWER train=0.594%, skip ratio=0.000%, New worst BCER = 0.379 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6985.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_463.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1713.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_9947.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12754.lstmf
+At iteration 1081/6300/6300, mean rms=0.100%, delta=0.077%, BCER train=0.288%, BWER train=0.520%, skip ratio=0.000%, New worst BCER = 0.288 wrote checkpoint.
+At iteration 1084/6400/6400, mean rms=0.100%, delta=0.077%, BCER train=0.297%, BWER train=0.619%, skip ratio=0.000%, New worst BCER = 0.297 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_17184.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6620.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1193.lstmf
+At iteration 1088/6500/6500, mean rms=0.101%, delta=0.079%, BCER train=0.302%, BWER train=0.641%, skip ratio=0.000%, New worst BCER = 0.302 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8084.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3299.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1050.lstmf
+At iteration 1091/6600/6600, mean rms=0.099%, delta=0.081%, BCER train=0.305%, BWER train=0.670%, skip ratio=0.000%, New worst BCER = 0.305 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12276.lstmf
+At iteration 1092/6700/6700, mean rms=0.096%, delta=0.079%, BCER train=0.297%, BWER train=0.647%, skip ratio=0.000%, New worst BCER = 0.297 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14246.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1245.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4146.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6979.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7070.lstmf
+At iteration 1098/6800/6800, mean rms=0.100%, delta=0.090%, BCER train=0.360%, BWER train=0.757%, skip ratio=0.000%, New worst BCER = 0.360 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3486.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16231.lstmf
+At iteration 1101/6900/6900, mean rms=0.098%, delta=0.088%, BCER train=0.353%, BWER train=0.750%, skip ratio=0.000%, New worst BCER = 0.353 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6525.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_451.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_10487.lstmf
+At iteration 1106/7000/7000, mean rms=0.099%, delta=0.090%, BCER train=0.357%, BWER train=0.760%, skip ratio=0.000%, New worst BCER = 0.357 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14313.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_9309.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6089.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7277.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_13314.lstmf
+At iteration 1108/7100/7100, mean rms=0.095%, delta=0.079%, BCER train=0.319%, BWER train=0.678%, skip ratio=0.000%, New worst BCER = 0.319 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14359.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_2933.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3554.lstmf
+2 Percent improvement time=429, best error was 2.312 @ 680
+At iteration 1109/7200/7200, mean rms=0.087%, delta=0.043%, BCER train=0.158%, BWER train=0.479%, skip ratio=0.000%, New best BCER = 0.158 wrote best model:data/augSubtle/checkpoints/augSubtle_0.158_1109_7200.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5558.lstmf
+2 Percent improvement time=433, best error was 2.312 @ 680
+At iteration 1113/7300/7300, mean rms=0.085%, delta=0.039%, BCER train=0.152%, BWER train=0.455%, skip ratio=0.000%, New best BCER = 0.152 wrote best model:data/augSubtle/checkpoints/augSubtle_0.152_1113_7300.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6225.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5176.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5501.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7456.lstmf
+At iteration 1121/7400/7400, mean rms=0.091%, delta=0.055%, BCER train=0.189%, BWER train=0.455%, skip ratio=0.000%, New worst BCER = 0.189 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4335.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_11054.lstmf
+At iteration 1122/7500/7500, mean rms=0.090%, delta=0.053%, BCER train=0.183%, BWER train=0.433%, skip ratio=0.000%, New worst BCER = 0.183 wrote checkpoint.
+At iteration 1125/7600/7600, mean rms=0.092%, delta=0.052%, BCER train=0.179%, BWER train=0.405%, skip ratio=0.000%, New worst BCER = 0.179 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_1804.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_11333.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4576.lstmf
+At iteration 1125/7700/7700, mean rms=0.091%, delta=0.052%, BCER train=0.178%, BWER train=0.399%, skip ratio=0.000%, New worst BCER = 0.178 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3283.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8538.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7997.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13031.lstmf
+2 Percent improvement time=445, best error was 2.312 @ 680
+At iteration 1125/7800/7800, mean rms=0.084%, delta=0.034%, BCER train=0.099%, BWER train=0.251%, skip ratio=0.000%, New best BCER = 0.099 wrote best model:data/augSubtle/checkpoints/augSubtle_0.099_1125_7800.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_15225.lstmf
+At iteration 1130/7900/7900, mean rms=0.086%, delta=0.042%, BCER train=0.114%, BWER train=0.291%, skip ratio=0.000%, New worst BCER = 0.114 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14316.lstmf
+At iteration 1132/8000/8000, mean rms=0.083%, delta=0.039%, BCER train=0.105%, BWER train=0.270%, skip ratio=0.000%, New worst BCER = 0.105 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12941.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_118.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_11737.lstmf
+At iteration 1133/8100/8100, mean rms=0.082%, delta=0.038%, BCER train=0.103%, BWER train=0.259%, skip ratio=0.000%, New worst BCER = 0.103 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_17622.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7543.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_12011.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14150.lstmf
+At iteration 1135/8200/8200, mean rms=0.082%, delta=0.038%, BCER train=0.101%, BWER train=0.259%, skip ratio=0.000%, New worst BCER = 0.101 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_16192.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_16511.lstmf
+2 Percent improvement time=456, best error was 2.312 @ 680
+At iteration 1136/8300/8300, mean rms=0.081%, delta=0.036%, BCER train=0.089%, BWER train=0.223%, skip ratio=0.000%, New best BCER = 0.089 wrote best model:data/augSubtle/checkpoints/augSubtle_0.089_1136_8300.checkpoint wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_11933.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14402.lstmf
+At iteration 1139/8400/8400, mean rms=0.077%, delta=0.029%, BCER train=0.092%, BWER train=0.232%, skip ratio=0.000%, New worst BCER = 0.092 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7403.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_3109.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_4438.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16219.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12799.lstmf
+At iteration 1141/8500/8500, mean rms=0.079%, delta=0.037%, BCER train=0.118%, BWER train=0.309%, skip ratio=0.000%, New worst BCER = 0.118 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6652.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_11163.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_14333.lstmf
+At iteration 1144/8600/8600, mean rms=0.079%, delta=0.039%, BCER train=0.122%, BWER train=0.337%, skip ratio=0.000%, New worst BCER = 0.122 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_2163.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_574.lstmf
+At iteration 1145/8700/8700, mean rms=0.080%, delta=0.040%, BCER train=0.124%, BWER train=0.342%, skip ratio=0.000%, New worst BCER = 0.124 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_13791.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5745.lstmf
+At iteration 1145/8800/8800, mean rms=0.078%, delta=0.040%, BCER train=0.124%, BWER train=0.342%, skip ratio=0.000%, New worst BCER = 0.124 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_2201.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16350.lstmf
+At iteration 1148/8900/8900, mean rms=0.078%, delta=0.042%, BCER train=0.135%, BWER train=0.354%, skip ratio=0.000%, New worst BCER = 0.135 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_14063.lstmf
+At iteration 1150/9000/9000, mean rms=0.077%, delta=0.041%, BCER train=0.133%, BWER train=0.349%, skip ratio=0.000%, New worst BCER = 0.133 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7791.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_10529.lstmf
+At iteration 1151/9100/9100, mean rms=0.077%, delta=0.042%, BCER train=0.133%, BWER train=0.348%, skip ratio=0.000%, New worst BCER = 0.133 wrote checkpoint.
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13335.lstmf
+At iteration 1153/9200/9200, mean rms=0.078%, delta=0.044%, BCER train=0.144%, BWER train=0.372%, skip ratio=0.000%, New worst BCER = 0.144 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7505.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_9571.lstmf
+At iteration 1158/9300/9300, mean rms=0.085%, delta=0.058%, BCER train=0.205%, BWER train=0.716%, skip ratio=0.000%, New worst BCER = 0.205 wrote checkpoint.
+At iteration 1158/9400/9400, mean rms=0.080%, delta=0.043%, BCER train=0.150%, BWER train=0.590%, skip ratio=0.000%, New worst BCER = 0.150 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_113.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_6740.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7023.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16543.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_15591.lstmf
+At iteration 1162/9500/9500, mean rms=0.080%, delta=0.038%, BCER train=0.130%, BWER train=0.529%, skip ratio=0.000%, New worst BCER = 0.130 wrote checkpoint.
+At iteration 1164/9600/9600, mean rms=0.078%, delta=0.037%, BCER train=0.128%, BWER train=0.490%, skip ratio=0.000%, New worst BCER = 0.128 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_15953.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_16612.lstmf
+At iteration 1167/9700/9700, mean rms=0.081%, delta=0.041%, BCER train=0.150%, BWER train=0.530%, skip ratio=0.000%, New worst BCER = 0.150 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8422.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8198.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5402.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_10245.lstmf
+At iteration 1168/9800/9800, mean rms=0.083%, delta=0.043%, BCER train=0.152%, BWER train=0.535%, skip ratio=0.000%, New worst BCER = 0.152 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_5246.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7231.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_8599.lstmf
+At iteration 1171/9900/9900, mean rms=0.085%, delta=0.052%, BCER train=0.182%, BWER train=0.658%, skip ratio=0.000%, New worst BCER = 0.182 wrote checkpoint.
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_7139.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_13922.lstmf
+Loaded 1/2 lines (1-1) of document data/augSubtle-ground-truth/ron_15251.lstmf
+Loaded 2/2 lines (1-2) of document data/augSubtle-ground-truth/ron_12327.lstmf
+At iteration 1175/10000/10000, mean rms=0.087%, delta=0.054%, BCER train=0.188%, BWER train=0.675%, skip ratio=0.000%, New worst BCER = 0.188 wrote checkpoint.
+Finished! Selected model with minimal training error rate (BCER) = 0.089
+
+lstmtraining \
+--stop_training \
+--continue_from data/augSubtle/checkpoints/augSubtle_checkpoint \
+--traineddata data/augSubtle/augSubtle.traineddata \
+--model_output data/augSubtle.traineddata
+Loaded file data/augSubtle/checkpoints/augSubtle_checkpoint, unpacking...
